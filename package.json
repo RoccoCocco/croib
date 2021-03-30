@@ -1,6 +1,6 @@
 {
   "name": "croib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Croatian Personal identification number validation and generator",
   "main": "./src/index.ts",
   "scripts": {
