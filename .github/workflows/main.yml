@@ -1,7 +1,6 @@
 name: Publish NPM package
 on:
-  release:
-    types: [published]
+  release
 
 jobs:
   publish:
